@@ -1,7 +1,7 @@
 package chapter5_heritance.equals_5_8;
 
-import abstractClasses.Employee;
-import inheritance.Manager;
+import chapter5_heritance.abstractClasses_5_4.Employee;
+import chapter5_heritance.inheritance_5_1.Manager;
 
 // this program demonstrates the equals method
 

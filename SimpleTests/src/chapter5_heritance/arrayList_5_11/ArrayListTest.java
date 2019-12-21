@@ -2,7 +2,7 @@ package chapter5_heritance.arrayList_5_11;
 
 import java.util.*;
 
-import abstractClasses.Employee;
+import chapter5_heritance.abstractClasses_5_4.Employee;
 
 // this program demonstrates the ArrayList class
 
